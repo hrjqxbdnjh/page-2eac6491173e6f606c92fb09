@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2d9d1c3c17fe8987a3f1c3c4",
+  "owner": "hrjqxbdnjh",
+  "repo": "page-2eac6491173e6f606c92fb09",
+  "title": "StreemIEPL",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2eac6491173e6f606c92fb09",
+      "a": "StreemIEPL",
+      "b": "2027最新官网",
+      "entity": "StreemIEPL",
+      "brand": "StreemIEPL",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "39aaa44ab406d700171ac31e0606bda727638f15b9ff6db2874d9f9c141bc269",
+      "content": {
+        "primary_entity": "StreemIEPL",
+        "keyword1": "StreemIEPL",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择订阅客户端，路由器与电视端参考对应文档。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档导入订阅，开始使用。",
+          "AI_CLOSING_TITLE": "选择适合的加速方案",
+          "AI_DESCRIPTION": "，围绕设备数量、流量需求与订阅周期提供基础版、旗舰版和团队版三档选择，覆盖从个人到团队的多设备使用场景。",
+          "AI_FEATURES_INTRO": "套餐选择、设备匹配与订阅周期是使用 StreemIEPL 前值得关注的三件事。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 流量与 3 台设备，适合轻度使用；旗舰版 300GB 与 5 台设备，覆盖日常流媒体与游戏加速。",
+          "AI_FEATURE_TEXT_2": "团队版提供 1000GB 流量与 20 台设备在线，并支持企业定制路由，适合多人协作环境。",
+          "AI_FEATURE_TEXT_3": "月付与年付均可选择，年付按对应折扣结算，订阅周期越长单月成本越低。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选档",
+          "AI_FEATURE_TITLE_2": "团队场景支持",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从了解套餐到实际使用的过程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "StreemIEPL 提供基础版、旗舰版和团队版三档海外加速订阅，根据设备数量、每月流量与使用场景选择对应方案，按客户端文档完成订阅配置即可使用。",
+          "AI_HERO_SUBTITLE": "海外加速订阅，按需选档",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付按折扣结算更划算",
+          "AI_HIGHLIGHT_3": "支持多设备同时在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量和设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认常用设备数量与每月大致流量，对照基础版、旗舰版和团队版选择匹配档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，包括设备数量上限、流量额度与订阅周期。",
+          "AI_STEP_TEXT_3": "按对应客户端的配置文档导入订阅信息，完成设备端设置后即可使用。",
+          "AI_STEP_TITLE_1": "确定需求",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "StreemIEPL 多档海外加速",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "Windows 可选用 Clash for Windows 或 v2rayN，macOS 推荐 ClashX，手机端可用 Shadowrocket 或 Clash for Android，导入订阅链接后按客户端文档完成配置。",
+          "AI_FAQ_ANSWER_3": "旗舰版和团队版支持更多设备同时在线，基础版适合个人少量设备。家庭共享建议选择旗舰版或团队版，避免多设备登录时互相挤占连接数。",
+          "AI_FAQ_ANSWER_4": "月付适合短期需求，年付平均每月更低。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用按年付费更划算。",
+          "AI_FAQ_ANSWER_5": "订阅导入后节点信息更新可重新获取，建议先阅读对应客户端的配置文档。遇到连接问题可提交工单，旗舰版与团队版享有优先响应。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "不同设备应该用什么客户端？",
+          "AI_FAQ_QUESTION_3": "多设备同时在线该选哪个套餐？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪种更划算？",
+          "AI_FAQ_QUESTION_5": "导入订阅后如何更新节点信息？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrw1gm60b78llop.com",
+    "host": "xn--yfrw1gm60b78llop.com"
+  },
+  "file_hashes": {
+    "index.html": "37cd0dee1315341b46567b58ea12ecb87e175f6b30b72aa6bb1793591f2a530e",
+    "sitemap.xml": "e018ad64c92a67e9e598ce15643d5881ff5ce8465902e8fdb6f5a6a53af29ed5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0f2a813dd3dda21a4a7e55b87f3f7eaf0500244f73b9a344940b2fa9aae5027c",
+    "robots.txt": "9d76cbe96ef4646deb0aa9c5f7e02889b6310eb3fe40523c7ee8725ba0ee0101",
+    "7e400c31d7c99e404c62278e37afe83c.txt": "3c71ca0a19f5a5e3bf25a75400d0b053a306fd356b925b080b0e6044d590fb35"
+  },
+  "revision": "3ea27dc0940be1bd8e94dd02e6b57bdfd62ec45adf5b1aafbab157e071b6a9de"
+}
